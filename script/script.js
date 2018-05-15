@@ -14,7 +14,12 @@ $("#contact ul:last-child").css({border:"2px solid red"});*/
 
 //$("section:not('#contact')").css({border:"2px solid green"});
 
-$("img[alt=quote]").css({border: "2px solid purple"});
+//$("img[alt=quote]").css({border: "2px solid purple"});
+//$("#contact-methods").prev().css({border:"3px solid blue"});
+
+//$(".banner-title").parent().css({border: "3px solid pink"});
+$("#social-nav").closest(".wrapper").css({border:"3px solid orange"});
+
 
 
 
