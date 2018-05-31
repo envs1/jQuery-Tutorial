@@ -1,9 +1,9 @@
+//events binding
 
 
-var button = $("#lead-banner a");
+var myLis = $("#points-of-sale li");
 
-button[0].onclick = function(){
+myLis.on("click",function(){
     
-    $("#points-of-sale").toggleClass("open");
-    return false;
-};
+    $(this).css({"background": "pink"});
+});
