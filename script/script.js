@@ -1,4 +1,4 @@
-// Part 16
+// j16
 
 $("#lead-banner").dblclick(function(){
    alert("you clicked me"); 
@@ -7,7 +7,7 @@ $("#lead-banner").dblclick(function(){
 
 
     
-    // Part 17
+    // j17
     
 /*$(window).load(function(){
     
@@ -15,7 +15,7 @@ $("#lead-banner").dblclick(function(){
 
 
 
-    // Part 18
+    // j18
     
 $(document).ready(function(){
    $("*").on("click", function(e){
@@ -27,7 +27,7 @@ $(document).ready(function(){
    });
 });
 
- // Part 19
+ // j19
 
 /*$(document).ready(function(){
     function complete(){
@@ -40,7 +40,7 @@ $(document).ready(function(){
 
 
 
-    // Part 20
+    // j20
     
 /*$(document).ready(function(){
     $("section > h2").on("click", function(){
@@ -56,7 +56,7 @@ $(document).ready(function(){
 
 
 
-    // Part 21
+    // j21
 
 $(document).ready(function(){
     $("img[alt=map]").on("click", function(){
@@ -64,7 +64,7 @@ $(document).ready(function(){
     });
 });
 
- // Part 22
+ // j22
 
 $(document).ready(function(){
     
@@ -79,7 +79,7 @@ $(document).ready(function(){
 
 
 
-    // Part 23
+    // j23
 
 $(document).ready(function(){
     
@@ -108,7 +108,7 @@ $(document).ready(function(){
 
 
 
-    // Part 24
+    // j24
 
 $(document).ready(function(){
    
@@ -122,7 +122,7 @@ $(document).ready(function(){
     
 });
 
-//j25 & 
+//j25 & j26
 
 $(document).ready(function(){
     
